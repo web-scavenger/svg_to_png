@@ -1,0 +1,40 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Roboto';
+    background: #fff;
+    overflow-x: hidden;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+html {
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    /* -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; */
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.svg__section{
+    width: 100px;
+    height: 100px;
+}
+#start_convert{
+    width: 100px;
+    height: 30px;
+    margin: 50px;
+    cursor: pointer;
+}
